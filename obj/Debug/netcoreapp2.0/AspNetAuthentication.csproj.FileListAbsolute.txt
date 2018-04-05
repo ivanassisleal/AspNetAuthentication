@@ -1,0 +1,11 @@
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetAuthentication\bin\Debug\netcoreapp2.0\AspNetAuthentication.deps.json
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetAuthentication\bin\Debug\netcoreapp2.0\AspNetAuthentication.runtimeconfig.json
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetAuthentication\bin\Debug\netcoreapp2.0\AspNetAuthentication.runtimeconfig.dev.json
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetAuthentication\bin\Debug\netcoreapp2.0\AspNetAuthentication.dll
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetAuthentication\bin\Debug\netcoreapp2.0\AspNetAuthentication.pdb
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetAuthentication\obj\Debug\netcoreapp2.0\AspNetAuthentication.csprojResolveAssemblyReference.cache
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetAuthentication\obj\Debug\netcoreapp2.0\AspNetAuthentication.csproj.CoreCompileInputs.cache
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetAuthentication\obj\Debug\netcoreapp2.0\AspNetAuthentication.AssemblyInfoInputs.cache
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetAuthentication\obj\Debug\netcoreapp2.0\AspNetAuthentication.AssemblyInfo.cs
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetAuthentication\obj\Debug\netcoreapp2.0\AspNetAuthentication.dll
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetAuthentication\obj\Debug\netcoreapp2.0\AspNetAuthentication.pdb
